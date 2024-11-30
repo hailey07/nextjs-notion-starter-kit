@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moho 脚本整理',
-  domain: 'https://moeu33.notion.site/Moho-14ed2a0d1cb680aa9906dc69dc53099e?pvs=4',
+  domain: 'https://moeu33.notion.site/Moho-14ed2a0d1cb680aa9906dc69dc53099e',
   author: '萌酥33',
 
   // open graph metadata (optional)
