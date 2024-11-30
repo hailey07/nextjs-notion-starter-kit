@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'a49ca9864920461ab9bef0763d47ca21',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Moho 脚本整理',
+  domain: 'https://moeu33.notion.site/Moho-a49ca9864920461ab9bef0763d47ca21',
+  author: 'MoeU33',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
