@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moho 脚本整理',
-  domain: 'https://moeu33.notion.site/Moho-a49ca9864920461ab9bef0763d47ca21',
-  author: 'MoeU33',
+  domain: 'https://moeu33.notion.site/Moho-14ed2a0d1cb68035b56eca7e3365dc91?pvs=4',
+  author: '萌酥33',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
