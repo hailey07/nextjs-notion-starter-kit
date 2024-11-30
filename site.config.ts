@@ -21,6 +21,7 @@ export default siteConfig({
   // github: 'transitive-bullshit',
   // linkedin: 'fisch2',
   youtube: 'MoeU33Hailey',
+  gumroad: 'https://moeu33.gumroad.com/'
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   
