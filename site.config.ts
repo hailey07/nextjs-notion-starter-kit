@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '14ed2a0d1cb680218515dd857a373d60',
+  rootNotionPageId: '14ed2a0d1cb680aa9906dc69dc53099e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moho 脚本整理',
-  domain: 'https://moeu33.notion.site/Moho-14ed2a0d1cb680218515dd857a373d60?pvs=4',
+  domain: 'https://moeu33.notion.site/Moho-14ed2a0d1cb680aa9906dc69dc53099e?pvs=4',
   author: '萌酥33',
 
   // open graph metadata (optional)
